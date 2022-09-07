@@ -26,3 +26,9 @@ let result = '';
   return result;
 };
 ```
+## Courses
+* [HTML Academy](https://htmlacademy.ru)
+* [Hexlet](https://ru.hexlet.io/)
+## Languages
+* Russian - native speaker
+* English - A2
